@@ -11,11 +11,9 @@
 
 ##  👉  Want to Contribute? ✨ 🔋
 
-```bash
 1️⃣ Hit "Star" 🚀
 2️⃣ Fork "Repo"
 3️⃣ Follow [Contribution Guidelines](https://github.com/muhammadawaisshaikh/community-events-nestjs/blob/main/Contributing.md)
-```
 
 ## 👉 Installation
 
@@ -89,7 +87,5 @@ Thanks goes to these wonderful people:
 </table>
 
 ## 👉 Some helpful Tech Video Content (Angular, NodeJS, RubyOnRails, Javascript, Typescript) 🎥
-```bash
   - Youtube - [youtube.com/developerorium](https://www.youtube.com/developerorium)
   - Dev.to - [dev.to/muhammadawaisshaikh](https://dev.to/muhammadawaisshaikh)
-```
