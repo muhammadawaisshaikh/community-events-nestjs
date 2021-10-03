@@ -55,7 +55,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - Maintainer - [Muhammad Awais](http://muhammadawaisshaikh.com/)
 - Website - [http://muhammadawaisshaikh.com/](http://muhammadawaisshaikh.com/)
-- Twitter - [@nestframework](https://twitter.com/developerorium)
+- Twitter - [@developerorium](https://twitter.com/developerorium)
 
 ## License
 
